@@ -1,0 +1,16 @@
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.Main.resources
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.Properties.Resources.resources
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PRG455LabProject\bin\Debug\PRG455LabProjecct.exe.config
+C:\Users\asus\Desktop\PRG455LabProject\bin\Debug\PRG455LabProjecct.exe
+C:\Users\asus\Desktop\PRG455LabProject\bin\Debug\PRG455LabProjecct.pdb
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.exe
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.pdb
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.Report.resources
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.ChoiceForm.resources
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.EditPersonalInfo.resources
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.EditCourses.resources
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.AddStudent.resources
+C:\Users\asus\Desktop\PRG455LabProject\obj\Debug\PRG455LabProjecct.DeleteStudent.resources

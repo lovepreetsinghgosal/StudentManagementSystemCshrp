@@ -1,0 +1,5 @@
+FirstName,MiddleName,LastName,DateOfBirth,Email,StatusInCanada,HomeAddress,PhoneNumber
+Jay,Dove,Smith,2005-02-09,john.smith@example.com,Study_Permit,123 Main Rd,6768679873,Intermediate Computing Concepts,85,2,Semester 3,Introduction to Linux,79,2,Semester 2,ARM Microcontroller for Real-time ,67,4,Semester 6,Object Oriented Programming Using C++,97,3,Semester 3
+Julie,Alice,Doe,1999-02-25,jane.doe@example.com,Permanent_Resident,456 Oak Rd,9485837421,Object Oriented Programming,98,3,Semester 3,Networking Essentials,94,2,Semester 6
+Michael,Jack,Johnson,1998-07-25,michael.johnson@example.com,Citizen,789 Maple Rd,8476846390,Technical Project,75,3,Semester 6,Network Servers and Peripherals,77,2,Semester 4,Microcontroller Concepts,89,3,Semester 3
+HARI,Singh,Sans,2004-10-05,confidential7775@gmail.com,Study_Permit,14 panda lane,8799552363,Cyber Security,75,2,Semester 5,Mathematics,65,2,Semester 2
